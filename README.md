@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Pursuing a Computer Science Degree at the University of Maryland College Park<br>🦀Rust enjoyer<br>✨she/her pronouns<br>
+🎓Pursuing a Computer Science Degree at the University of Maryland College Park<br>🦀Rust enjoyer<br>✨she/her<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmberLehmann&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
